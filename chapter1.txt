@@ -1,1 +1,2 @@
-Just some text.
+Just some text. 
+Made some changes on side-path branch.
