@@ -61,7 +61,7 @@ DS\_files are setting files shown
 
 **$touch .gitignore**
 
-### **B.** add files to the .gitignore
+### add files to the .gitignore
 
 ### by adding to the file as is, or wildcard * . txt #is comment **C. Include**
 
